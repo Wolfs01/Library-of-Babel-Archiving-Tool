@@ -14,3 +14,15 @@ find          [path of archive file]
 
 quit / exit                                                                            
   -guess what
+
+
+
+
+
+
+
+
+
+Inspiration: 
+
+I wanted to start writing a diary in the library of babel and the fact that you couldn't use ENTER in the search field midly inconvenienced me into procrasting to actually start the diary and write this (it calculates how many spaces need to be added at the end of a line for eventually looking good in the library of babel)
